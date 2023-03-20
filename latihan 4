@@ -1,0 +1,14 @@
+a=int(input("masukkan nilai a : "))
+b=int(input("masukkan nilai b : "))
+c=a&b
+print("a & b = %s" % c)
+c=a|b
+print("a | b = %s" % c)
+c=a^b
+print("a ^ b = %s" % c)
+c=~b
+print("a ~ b = %s" % c)
+c=a<<b
+print("a << b = %s" % c)
+c=a>>b
+print("a >> b = %s" % c)
