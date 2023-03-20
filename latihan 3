@@ -1,0 +1,8 @@
+a= True
+b= False
+c=a and b
+print(" %d and %d : %r" % (a,b,c))
+c=a or b
+print(" %d or %d : %r" % (a,b,c))
+c= not b
+print(" %d or %d : %r" % (a,b,c))
