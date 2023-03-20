@@ -1,0 +1,17 @@
+a=int(input("inputkan nilai a = "))
+b=int(input("inputkan nilai b = "))
+b+=a
+print("hasil penjumlahan b += a : = ", b)
+b-=a
+print("hasil pengurangan b -= a : = ", b)
+b*=a
+print("hasil perkalian b *= a : = ", b)
+b**=a
+print("hasil perpangkatan b **= a : = ", b)
+b/=a
+print("hasil pembagian b /= a : = ", b)
+b%=a
+print("hasil modulus b %= a : = ", b)
+
+
+
